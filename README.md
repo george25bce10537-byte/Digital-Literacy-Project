@@ -42,11 +42,7 @@ This repository contains my Digital Literacy Project submitted for the CSE0001 c
 ---
 
 ## Useful Links
-**Google Form Quiz:** [Paste your Google Form link here]
-
-**GitHub Profile:** [Paste your GitHub profile link here]  
-**LinkedIn Profile:** [Paste your LinkedIn profile link here]  
-**Kaggle Profile:** [Paste your Kaggle profile link here]
+**Google Form Quiz:** https://docs.google.com/forms/d/e/1FAIpQLSceUg4vaqqaMqRW6iHkWBTWCeqZFO-8xwlfmGErVej5wP2JlQ/viewform?usp=header
 
 ---
 
